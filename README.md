@@ -35,6 +35,6 @@
 </table> -->
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanyakor&count_private=true&include_all_commits=truetheme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&hide=jupyter%20notebooktheme=default" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanyakor&count_private=true&include_all_commits=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&hide=jupyter%20notebook&theme=default" />
 </div>
