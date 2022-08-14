@@ -26,9 +26,9 @@
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&hide=html,jupyter%20notebook,css,java,shaderlab,kotlin,hlsl&theme=default">
 </p> -->
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=sanyakor&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&theme=radical&layout=compact" />
-</div>
-
-
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=sanyakor&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
