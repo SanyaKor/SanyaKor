@@ -30,11 +30,11 @@
 <!-- <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&show_icons=true&hide=jupyter%20notebook&theme=default"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=sanyakor&theme=default"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=sanyakortheme=default""/></td>
   </tr>
 </table> -->
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanyakor&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&hide=jupyter%20notebook" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanyakor&count_private=true&include_all_commits=truetheme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&hide=jupyter%20notebooktheme=default" />
 </div>
