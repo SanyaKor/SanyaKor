@@ -21,9 +21,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sanyakor&show_icons=true&locale=en" alt="sanyakor" />
 </p> -->
 
-<p align = "center">
+<!-- <p align = "center">
     <img  src = "https://github-readme-stats.vercel.app/api?username=sanyakor&show_icons=true&theme=default">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&hide=html,jupyter%20notebook,css,java,shaderlab,kotlin,hlsl&theme=default">
-</p>
+</p> -->
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=sanyakor&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor3&theme=radical&layout=compact" />
+</div>
 
 
