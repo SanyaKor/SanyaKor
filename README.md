@@ -26,9 +26,15 @@
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&hide=html,jupyter%20notebook,css,java,shaderlab,kotlin,hlsl&theme=default">
 </p> -->
 
-<table>
+
+<!-- <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&show_icons=true&hide=jupyter%20notebook&theme=default"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=sanyakor&theme=default"/></td>
   </tr>
-</table>
+</table> -->
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanyakor&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&hide=jupyter%20notebook" />
+</div>
