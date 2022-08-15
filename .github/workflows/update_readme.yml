@@ -16,6 +16,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          TIMEZONE_OFFSET: "+1:00" 
+          TIMEZONE_OFFSET: "+2:00" 
           DATE_STRING: "Last update: `{DATE}`" 
           DATE_FORMAT: "dd.mm.yyyy HH:MM:ss"
