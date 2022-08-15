@@ -41,6 +41,9 @@
 </div>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/SanyaKor/SanyaKor/pull/1) in [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+2. 💪 Opened PR [#1](https://github.com/SanyaKor/SanyaKor/pull/1) in [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+<!--END_SECTION:activity-->
 
 
 
