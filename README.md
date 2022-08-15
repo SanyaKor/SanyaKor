@@ -42,3 +42,9 @@
 
 
 <!--RECENT_ACTIVITY:start-->
+1. 🎉 Merged PR [#2](https://github.com/SanyaKor/SanyaKor/pull/2) in [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+2. 💪 Opened PR [#2](https://github.com/SanyaKor/SanyaKor/pull/2) in [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+3. 🎉 Merged PR [#1](https://github.com/SanyaKor/SanyaKor/pull/1) in [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+4. 💪 Opened PR [#1](https://github.com/SanyaKor/SanyaKor/pull/1) in [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+5. ⭐ Starred [MiDeev/MiDeev-ru](https://github.com/MiDeev/MiDeev-ru)
+<!--RECENT_ACTIVITY:end-->
