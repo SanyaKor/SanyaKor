@@ -44,14 +44,14 @@
 <h3 align="left">Recent activity: </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/SanyaKor/SanyaKor/pull/2) in [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-2. 💪 Opened PR [#2](https://github.com/SanyaKor/SanyaKor/pull/2) in [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-3. 🎉 Merged PR [#1](https://github.com/SanyaKor/SanyaKor/pull/1) in [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-4. 💪 Opened PR [#1](https://github.com/SanyaKor/SanyaKor/pull/1) in [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-5. ⭐ Starred [MiDeev/MiDeev-ru](https://github.com/MiDeev/MiDeev-ru)
+1. ⬆️ Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+2. ⬆️ Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+3. ⬆️ Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+4. ⬆️ Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+5. ⬆️ Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 15th, 2022, 9:27:09 PM
+Last Updated: Monday, August 15th, 2022, 9:30:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
