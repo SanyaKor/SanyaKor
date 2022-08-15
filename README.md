@@ -35,21 +35,21 @@
   </tr>
 </table> -->
 
-<!-- <div>
+<div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanyakor&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&hide=jupyter%20notebook&theme=default" />
-</div> -->
+</div>
 
 
 
 
 
-
+<!-- 
 
 <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyakor&show_icons=true&include_all_commits=true&locale=en&layout=compact" alt="sanyakor" />
     <img src="https://github-readme-stats.vercel.app/api?username=sanyakor&show_icons=true&locale=en" alt="sanyakor" />
-</p>
+</p> -->
 
 
 
