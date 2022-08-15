@@ -40,9 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&hide=jupyter%20notebook&theme=default" />
 </div>
 
-[![](https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/SanyaKor/profile-summary-cards/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
 
 <h3 align="left">Recent activity: </h3>
