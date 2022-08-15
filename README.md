@@ -53,6 +53,11 @@
     </tr> 
 </table>
 
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaKor&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=SanyaKor&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<div>
+
 
 <h3 align="left">Recent activity: </h3>
 
