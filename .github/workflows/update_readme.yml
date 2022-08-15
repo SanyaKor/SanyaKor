@@ -12,10 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2.3.4
-      - uses: Readme-Workflows/recent-activity@v2.0.0
+      - uses: Readme-Workflows/recent-activity@v2.4.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          TIMEZONE_OFFSET: "+3:00" 
-          DATE_STRING: "Last update: `{DATE}`" 
-          DATE_FORMAT: "dd.mm.yyyy HH:MM:ss"
+          TIMEZONE_OFFSET: "+1:00" 
