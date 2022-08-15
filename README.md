@@ -44,4 +44,9 @@
 
 
 
+
+
+<!--RECENT_ACTIVITY:end-->
+
+
 <!-- more stuff -->
