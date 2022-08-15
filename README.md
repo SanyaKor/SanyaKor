@@ -15,6 +15,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+
+<!-- TESTS -->
+
 <!-- <h3 align="left">Environments i work with:</h3> -->
 
 <!-- <p align = "center">
@@ -35,7 +38,9 @@
   </tr>
 </table> -->
 
-<div>
+<!-- TESTS -->
+
+<!-- <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanyakor&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&hide=jupyter%20notebook&theme=default" />
 </div>
@@ -44,18 +49,21 @@
 
 
 
-<!-- 
+
 
 <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyakor&show_icons=true&include_all_commits=true&locale=en&layout=compact" alt="sanyakor" />
     <img src="https://github-readme-stats.vercel.app/api?username=sanyakor&show_icons=true&locale=en" alt="sanyakor" />
-</p> -->
+</p> --> -->
 
 
+<table> 
+    <tr> 
+        <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaKor&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td> 
+        <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=SanyaKor&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td> 
+    </tr> 
+</table>
 
-
-<!-- | <a href="https://github.com/SanyaKor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SanyaKor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SanyaKor's github stats" /></a> | <a href="https://github.com/SanyaKor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaKor&layout=compact&theme=buefy&hide_border=true" /></a> | 
-| —---------— | —---------— | -->
 
 <h3 align="left">Recent activity: </h3>
 
