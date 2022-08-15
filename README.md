@@ -35,10 +35,17 @@
   </tr>
 </table> -->
 
-<div>
+<!-- <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanyakor&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&hide=jupyter%20notebook&theme=default" />
-</div>
+</div> -->
+
+<details> 
+<summary>:zap: Statistics:</summary> 
+<img align="left" alt="SanyaKor's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaKor&langs_count=8&layout=compact" /> 
+<br /> 
+<img align="left" alt="SanyaKor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SanyaKor&show_icons=true" /> 
+</details>
 
 
 
