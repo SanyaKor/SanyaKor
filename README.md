@@ -43,24 +43,13 @@
 <!-- <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sanyakor&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&hide=jupyter%20notebook&theme=default" />
-</div>
-
-
-
-
-
-
-
-<p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyakor&show_icons=true&include_all_commits=true&locale=en&layout=compact" alt="sanyakor" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sanyakor&show_icons=true&locale=en" alt="sanyakor" />
-</p> -->
+</div> -->
 
 
 <table> 
     <tr> 
-        <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaKor&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td> 
-        <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=SanyaKor&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td> 
+        <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaKor&layout=compact&show_icons=true&hide=jupyter%20notebook"/></td> 
+        <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=SanyaKor&show_icons=true"/></td> 
     </tr> 
 </table>
 
