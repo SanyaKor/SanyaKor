@@ -46,17 +46,17 @@
 
 
 
-<!-- <p align = "center">
+<p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyakor&show_icons=true&locale=en&layout=compact&
     include_all_commits=true" alt="sanyakor" />
     <img src="https://github-readme-stats.vercel.app/api?username=sanyakor&show_icons=true&locale=en" alt="sanyakor" />
-</p> -->
+</p>
 
 
 
 
-| <a href="https://github.com/SanyaKor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SanyaKor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SanyaKor's github stats" /></a> | <a href="https://github.com/SanyaKor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaKor&layout=compact&theme=buefy&hide_border=true" /></a> | 
-| —---------— | —---------— |
+<!-- | <a href="https://github.com/SanyaKor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SanyaKor&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SanyaKor's github stats" /></a> | <a href="https://github.com/SanyaKor/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaKor&layout=compact&theme=buefy&hide_border=true" /></a> | 
+| —---------— | —---------— | -->
 
 <h3 align="left">Recent activity: </h3>
 
