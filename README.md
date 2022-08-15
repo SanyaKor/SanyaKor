@@ -46,9 +46,9 @@
 </div> -->
 
 
-<table border="0"> 
-    <tr border="0"> 
-        <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaKor&layout=compact&show_icons=true&hide=jupyter%20notebook"/></td> 
+<table style="border: none;"> 
+    <tr style="border: none;"> 
+        <td style="border: none;" valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaKor&layout=compact&show_icons=true&hide=jupyter%20notebook"/></td> 
         <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=SanyaKor&show_icons=truecount_private=true&include_all_commits=true"/></td> 
     </tr> 
 </table>
