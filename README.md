@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&hide=jupyter%20notebook&theme=default" />
 </div>
 
-[![](https://raw.githubusercontent.com/SanyaKor/profile-summary-cards/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
 
 
 <h3 align="left">Recent activity: </h3>
