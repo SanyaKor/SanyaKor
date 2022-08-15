@@ -40,14 +40,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanyakor&layout=compact&hide=jupyter%20notebook&theme=default" />
 </div> -->
 
-<details> 
-<summary>:zap: Statistics:</summary> 
-<img align="left" alt="SanyaKor's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaKor&langs_count=8&layout=compact" /> 
-<br /> 
-<img align="left" alt="SanyaKor's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SanyaKor&show_icons=true" /> 
-</details>
 
 
+
+
+
+
+<!-- <p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyakor&show_icons=true&locale=en&layout=compact" alt="sanyakor" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sanyakor&show_icons=true&locale=en" alt="sanyakor" />
+</p> -->
 
 
 <h3 align="left">Recent activity: </h3>
