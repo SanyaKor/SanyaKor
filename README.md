@@ -42,6 +42,6 @@
 
 
 <h3 align="left">Recent activity: </h3>
-<!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
