@@ -54,7 +54,7 @@
 <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyakor&show_icons=true&include_all_commits=true&locale=en&layout=compact" alt="sanyakor" />
     <img src="https://github-readme-stats.vercel.app/api?username=sanyakor&show_icons=true&locale=en" alt="sanyakor" />
-</p> --> -->
+</p> -->
 
 
 <table> 
