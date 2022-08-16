@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
+
 <h3 align="center">I'm a BackEnd Developer</h3>
 
 - 🌱 I’m currently learning **C++, SQL, unit-testing**
-
+- 💬 Ask me about **anything, I am happy to help** 
+- 📫 How to reach me **alexandr.2nd@gmail.com**
 - ⚡ Fun fact **I can solve Rubik's cube in under a minute**
 
 <h3 align="left">Connect with me:</h3>
