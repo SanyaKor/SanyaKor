@@ -6,3 +6,4 @@ messages:
   pr_opened: "![pr_opened] Opened PR {ID} in {REPO}"
   pr_closed: "![pr_closed] Closed PR {ID} in {REPO}" 
   pr_merged: "![pr_merged] Merged PR {ID} in {REPO}"
+  fork_repo: "![forked] Forked {FORK} from {REPO}"  
