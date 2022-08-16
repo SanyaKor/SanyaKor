@@ -22,14 +22,14 @@
 ```dart 
 // tools_I_use organized 
 class About extends Me { 
-const myTools = { 
-"ProgramingLanguages" : { "C++", "C", "CSharp", "Python" }, 
-"OtherLanguages" : { "Bash", "Json", "Markdown" }, 
-"Database" : { "MySQL", "PostgreSQL" }, 
-"Editors" : { "Vscode", "Clion", "Visual Studio", "PyCharm", "Unity Engine", "Xcode" }, 
-"Platforms" : { "GNU/Linux", "Windows" }, 
-"OtherTools" : { "Git", "Miro", "Trello", "Latex" } 
-}; 
+    const myTools = { 
+        "ProgramingLanguages" : { "C++", "C", "CSharp", "Python" }, 
+        "OtherLanguages" : { "Bash", "Json", "Markdown" }, 
+        "Database" : { "MySQL", "PostgreSQL" }, 
+        "Editors" : { "Vscode", "Clion", "Visual Studio", "PyCharm", "Unity Engine", "Xcode" }, 
+        "Platforms" : { "GNU/Linux", "Windows" }, 
+        "OtherTools" : { "Git", "Miro", "Trello", "Latex" } 
+    }; 
 } 
 ```
 
