@@ -58,7 +58,7 @@
 <h3 align="left">Recent activity: </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+1. ![push] ![pr_merged] ![pr_canceled] ![pr_opened] ![forked] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 2. ![pr_merged] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 3. ![pr_canceled] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 4. ![pr_opened] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
