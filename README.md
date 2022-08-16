@@ -72,4 +72,4 @@ Last Updated: Tuesday, August 16th, 2022, 1:37:13 PM
 
 
 <!-- Badges -->
-[push]: https://github.com/SanyaKor/SanyaKor/blob/main/images/commit_icon.svg
+[push]: https://github.com/SanyaKor/SanyaKor/blob/main/images/commit_icon_test.jpg
