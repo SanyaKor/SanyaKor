@@ -60,7 +60,7 @@
 <!--RECENT_ACTIVITY:start-->
 1. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 2. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-3. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+3. ![push] ![approvedchanges] ![wiki] ![requestedchanges] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 4. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 5. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 <!--RECENT_ACTIVITY:end-->
@@ -93,5 +93,7 @@ Last Updated: Tuesday, August 16th, 2022, 8:40:06 PM
 
 [create_repo]:  https://github.com/SanyaKor/SanyaKor/blob/main/images/create_repo2.jpg
 
+[requestedchanges]: https://github.com/SanyaKor/SanyaKor/blob/main/images/requested_changes2.jpg
+[approvedchanges]: https://github.com/SanyaKor/SanyaKor/blob/main/images/approved_changes2.jpg
 
-
+[wiki]: https://github.com/SanyaKor/SanyaKor/blob/main/images/wiki2.jpg
