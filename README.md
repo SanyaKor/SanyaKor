@@ -59,9 +59,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-2. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-3. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-4. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+2. ![push] ![people] ![release] ![create_repo]Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+3. ![push] ![create_repo] ![release] ![people]Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+4. ![push] ![create_repo] ![people] ![release] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 5. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 <!--RECENT_ACTIVITY:end-->
 
@@ -86,3 +86,12 @@ Last Updated: Tuesday, August 16th, 2022, 8:12:49 PM
 [star]:  https://github.com/SanyaKor/SanyaKor/blob/main/images/star2.jpg
 
 [msg]:  https://github.com/SanyaKor/SanyaKor/blob/main/images/msg2.jpg
+
+[people]:  https://github.com/SanyaKor/SanyaKor/blob/main/images/people2.jpg
+
+[release]:  https://github.com/SanyaKor/SanyaKor/blob/main/images/release2.jpg
+
+[create_repo]:  https://github.com/SanyaKor/SanyaKor/blob/main/images/create_repo2.jpg
+
+
+
