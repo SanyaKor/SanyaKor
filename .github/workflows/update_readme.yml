@@ -15,5 +15,5 @@ jobs:
       - uses: Readme-Workflows/recent-activity@v2.4.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          TIMEZONE_OFFSET: +1:00 
+
+        
