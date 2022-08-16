@@ -72,4 +72,4 @@ Last Updated: Tuesday, August 16th, 2022, 3:12:30 PM
 
 
 <!-- Badges -->
-[push]: https://github.com/SanyaKor/SanyaKor/blob/main/images/test.jpg
+[push]: https://github.com/SanyaKor/SanyaKor/blob/main/images/test2.jpg
