@@ -20,13 +20,17 @@
 
 
 ```dart 
-// tools_I_use organized 
+// tools I use organized 
 class About extends Me { 
     const myTools = { 
         "ProgramingLanguages" : { "C++", "C", "CSharp", "Python" }, 
         "OtherLanguages" : { "Bash", "Json", "Markdown" }, 
         "Database" : { "MySQL", "PostgreSQL" }, 
-        "Editors" : { "Vscode", "Clion", "Visual Studio", "PyCharm", "Unity Engine", "Xcode", "Jupyter Notebook", "Rider" }, 
+        "Editors" : {
+                        "Vscode", "Clion", "Visual Studio",
+                        "PyCharm", "Unity Engine", "Xcode",
+                        "Jupyter Notebook", "Rider" 
+                    }, 
         "Platforms" : { "GNU/Linux", "Windows" }, 
         "OtherTools" : { "Git", "Miro", "Trello", "Latex" } 
     }; 
