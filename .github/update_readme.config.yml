@@ -1,3 +1,6 @@
 settings:
   date: 
     timezone: "GMT+03:00" 
+ 
+messages:
+  push: ![push] Pushed {AMOUNT} commit(s) to {REPO}
