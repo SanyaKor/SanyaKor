@@ -69,7 +69,7 @@ class About extends Me {
     </tr> 
 </table>
 
-
+---
 
 ## Recent GitHub Activity
 
