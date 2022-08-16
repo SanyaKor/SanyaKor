@@ -26,7 +26,7 @@ class About extends Me {
         "ProgramingLanguages" : { "C++", "C", "CSharp", "Python" }, 
         "OtherLanguages" : { "Bash", "Json", "Markdown" }, 
         "Database" : { "MySQL", "PostgreSQL" }, 
-        "Editors" : { "Vscode", "Clion", "Visual Studio", "PyCharm", "Unity Engine", "Xcode" }, 
+        "Editors" : { "Vscode", "Clion", "Visual Studio", "PyCharm", "Unity Engine", "Xcode", "Jupyter Notebook", "Rider" }, 
         "Platforms" : { "GNU/Linux", "Windows" }, 
         "OtherTools" : { "Git", "Miro", "Trello", "Latex" } 
     }; 
