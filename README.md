@@ -62,7 +62,7 @@
 2. ![pr_merged] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 3. ![pr_canceled] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 4. ![pr_opened] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-5. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+5. ![forked] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 <!--RECENT_ACTIVITY:end-->
 
 
@@ -73,7 +73,10 @@ Last Updated: Tuesday, August 16th, 2022, 6:07:25 PM
 
 <!-- Badges -->
 [push]: https://github.com/SanyaKor/SanyaKor/blob/main/images/test1.jpg
+
 [pr_merged]: https://github.com/SanyaKor/SanyaKor/blob/main/images/pr_merged2.jpg
 [pr_canceled]: https://github.com/SanyaKor/SanyaKor/blob/main/images/pr_canceled2.jpg
-[pr_opened]: https://github.com/SanyaKor/SanyaKor/blob/main/images/pr_open2.jpg
+[pr_opened]: https://github.com/SanyaKor/SanyaKor/blob/main/images/test1.jpg
+
+[forked]: https://github.com/SanyaKor/SanyaKor/blob/main/images/forked2.jpg
 
