@@ -26,7 +26,7 @@ class About extends Me {
                         "Jupyter Notebook", "Rider" 
                     }, 
         "Platforms" : { "GNU/Linux", "Windows" }, 
-        "OtherTools" : { "Git", "Miro", "Trello", "Latex" } 
+        "OtherTools" : { "Git", "Jira", "Miro", "Trello", "Latex" } 
     }; 
 } 
 ```
