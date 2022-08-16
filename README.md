@@ -59,7 +59,7 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ![push] ![pr_merged] ![pr_canceled] ![pr_opened] ![forked] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-2. ![pr_merged] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+2. ![pr_merged] ![issue_opened] ![issue_closed] ![msg] ![star] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 3. ![pr_canceled] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 4. ![pr_opened] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 5. ![forked] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
@@ -80,3 +80,9 @@ Last Updated: Tuesday, August 16th, 2022, 7:09:08 PM
 
 [forked]: https://github.com/SanyaKor/SanyaKor/blob/main/images/forked_smaller2.jpg
 
+[issue_opened]:  https://github.com/SanyaKor/SanyaKor/blob/main/images/issue_opened2.jpg
+[issue_closed]:  https://github.com/SanyaKor/SanyaKor/blob/main/images/issue_closed2.jpg
+
+[star]:  https://github.com/SanyaKor/SanyaKor/blob/main/images/star2.jpg
+
+[msg]:  https://github.com/SanyaKor/SanyaKor/blob/main/images/msg2.jpg
