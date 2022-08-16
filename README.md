@@ -69,3 +69,7 @@
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Tuesday, August 16th, 2022, 1:07:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
+
+
+<!-- Badges -->
+[push]: https://github.com/SanyaKor/SanyaKor/blob/main/images/commit_icon.svg
