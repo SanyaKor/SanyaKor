@@ -94,6 +94,6 @@ Last Updated: Tuesday, August 16th, 2022, 8:40:06 PM
 [create_repo]:  https://github.com/SanyaKor/SanyaKor/blob/main/images/create_repo2.jpg
 
 [requestedchanges]: https://github.com/SanyaKor/SanyaKor/blob/main/images/requested_changes2.jpg
-[approvedchanges]: https://github.com/SanyaKor/SanyaKor/blob/main/images/changes_approved.jpg
+[approvedchanges]: https://github.com/SanyaKor/SanyaKor/blob/main/images/changes_approved2.jpg
 
 [wiki]: https://github.com/SanyaKor/SanyaKor/blob/main/images/wiki2.jpg
