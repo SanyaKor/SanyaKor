@@ -73,5 +73,7 @@ Last Updated: Tuesday, August 16th, 2022, 6:07:25 PM
 
 <!-- Badges -->
 [push]: https://github.com/SanyaKor/SanyaKor/blob/main/images/test1.jpg
-
+[pr_merged]: https://github.com/SanyaKor/SanyaKor/blob/main/images/pr_merged2.jpg
+[pr_canceled]: https://github.com/SanyaKor/SanyaKor/blob/main/images/pr_canceled2.jpg
+[pr_opened]: https://github.com/SanyaKor/SanyaKor/blob/main/images/pr_opened2.jpg
 
