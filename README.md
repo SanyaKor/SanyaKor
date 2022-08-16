@@ -89,7 +89,7 @@ Last Updated: Tuesday, August 16th, 2022, 10:05:30 PM
 
 ## Links
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/alexandr-lebedev-9b243a232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandr-lebedev-9b243a232" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18620665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18620665" height="30" width="40" /></a>
