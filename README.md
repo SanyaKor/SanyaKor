@@ -78,7 +78,7 @@ class About extends Me {
 
 
 
-<h3 align="left">Recent activity: </h3>
+## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
