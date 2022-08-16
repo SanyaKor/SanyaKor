@@ -2,7 +2,7 @@ settings:
   date: 
     timezone: "GMT+03:00" 
 messages:
-  push: "![push] Pushed {AMOUNT} commit(s) to {REPO}"
+  push: "![push] {DATE} Pushed {AMOUNT} commit(s) to {REPO}"
   pr_opened: "![pr_opened] Opened PR {ID} in {REPO}"
   pr_closed: "![pr_closed] Closed PR {ID} in {REPO}" 
   pr_merged: "![pr_merged] Merged PR {ID} in {REPO}"
