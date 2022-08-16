@@ -78,5 +78,5 @@ Last Updated: Tuesday, August 16th, 2022, 6:07:25 PM
 [pr_canceled]: https://github.com/SanyaKor/SanyaKor/blob/main/images/pr_canceled2.jpg
 [pr_opened]: https://github.com/SanyaKor/SanyaKor/blob/main/images/pr_opened2.jpg
 
-[forked]: https://github.com/SanyaKor/SanyaKor/blob/main/images/forked2.jpg
+[forked]: https://github.com/SanyaKor/SanyaKor/blob/main/images/forked_smaller.jpg
 
