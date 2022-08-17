@@ -1,6 +1,8 @@
 settings:
+  max_lines: 8
   date: 
     timezone: "GMT+03:00" 
+    
 messages:
   push: "![push] Pushed {AMOUNT} commit(s) to {REPO}"
   pr_opened: "![pr_opened] Opened PR {ID} in {REPO}"
