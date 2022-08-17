@@ -62,12 +62,21 @@ class About extends Me {
 </div> -->
 
 
-<table style="border: none;"> 
+<!-- <table style="border: none;"> 
     <tr style="border: none;"> 
         <td style="border: none;" valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaKor&layout=compact&show_icons=true&hide=jupyter%20notebook"/></td> 
         <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=SanyaKor&show_icons=truecount_private=true&include_all_commits=true"/></td> 
     </tr> 
-</table>
+</table> -->
+
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/SanyaKor/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/SanyaKor/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
 
 ---
 
