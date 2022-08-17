@@ -104,15 +104,15 @@ class About extends Me {
 
 <!--RECENT_ACTIVITY:start-->
 1. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-2. ![forked] Forked [SanyaKor/MacroPower](https://github.com/SanyaKor/MacroPower) from [MacroPower/MacroPower](https://github.com/MacroPower/MacroPower)
+2. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 3. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-4. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
+4. ![forked] Forked [SanyaKor/Prince-Shivaram](https://github.com/SanyaKor/Prince-Shivaram) from [Prince-Shivaram/Prince-Shivaram](https://github.com/Prince-Shivaram/Prince-Shivaram)
 5. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 17th, 2022, 2:35:25 PM
+Last Updated: Wednesday, August 17th, 2022, 3:14:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
