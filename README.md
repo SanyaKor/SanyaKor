@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Alex</h1>
 <h3 align="left">I'm a BackEnd Developer</h3>
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=623ce4)
 ![](https://img.shields.io/badge/OS-macOs-informational?style=flat&logo=macos&logoColor=white&color=623ce4)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=623ce4)
@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=623ce4)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MYSQL&logoColor=white&color=623ce4)
 
-## 👨🏻‍💻 About Me:
+## About Me:
 
 - 🌱 I’m currently learning C++, SQL, unit-testing
 - 💬 Ask me about anything, I am happy to help 
