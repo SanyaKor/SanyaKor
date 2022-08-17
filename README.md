@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a BackEnd Developer</h3>
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VSCode&logoColor=white&color=2bbc8a)
