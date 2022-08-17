@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Alex</h1>
 <h3 align="left">I'm a BackEnd Developer</h3>
 
+---
+
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=623ce4)
 ![](https://img.shields.io/badge/OS-macOs-informational?style=flat&logo=macos&logoColor=white&color=623ce4)
