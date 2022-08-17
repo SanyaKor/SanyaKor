@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-
-<h3 align="center">I'm a BackEnd Developer</h3>
+<h1 align="left">Hi 👋, I'm Alex</h1>
+<h3 align="left">I'm a BackEnd Developer</h3>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=623ce4)
