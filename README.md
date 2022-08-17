@@ -89,7 +89,7 @@ class About extends Me {
     </tr> 
 </table> -->
 
-### 📊 Github Stats
+## Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/SanyaKor/github-stats-transparent/output/generated/overview.svg)
