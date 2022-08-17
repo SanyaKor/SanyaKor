@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=623ce4)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MYSQL&logoColor=white&color=623ce4)
 
+## 👨🏻‍💻 About Me:
 
 - 🌱 I’m currently learning C++, SQL, unit-testing
 - 💬 Ask me about anything, I am happy to help 
