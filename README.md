@@ -91,6 +91,7 @@ class About extends Me {
     </tr> 
 </table> -->
 
+<!--  
 ## Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
@@ -98,6 +99,8 @@ class About extends Me {
 ![Most Used Languages](https://raw.githubusercontent.com/SanyaKor/github-stats-transparent/output/generated/languages.svg)
 
 </a>
+
+-->
 
 
 ---
