@@ -124,8 +124,8 @@ Last Updated: Friday, June 2nd, 2023, 10:31:32 AM
 
 <p align="left">
 <a href="https://linkedin.com/in/alexandr-lebedev-9b243a232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandr-lebedev-9b243a232" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18620665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18620665" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/allebedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="allebedev" height="30" width="40" /></a>
+<!--<a href="https://stackoverflow.com/users/18620665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18620665" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/allebedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="allebedev" height="30" width="40" /></a>-->
 </p>
 
 
