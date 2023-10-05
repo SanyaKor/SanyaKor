@@ -108,12 +108,11 @@ class About extends Me {
 ## Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [developers-hub-org/unity-realtime-networking-server](https://github.com/developers-hub-org/unity-realtime-networking-server)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 5th, 2023, 3:30:21 AM
+Last Updated: Thursday, October 5th, 2023, 4:43:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
