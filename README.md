@@ -91,7 +91,29 @@ class About extends Me {
     </tr> 
 </table> -->
 
+## Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
+![Stats Overview](https://raw.githubusercontent.com/SanyaKor/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/SanyaKor/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+
+
+
+---
+
+## Recent GitHub Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Friday, March 1st, 2024, 2:31:38 AM
+<!--RECENT_ACTIVITY:last_update_end-->
+
 
 
 ---
@@ -104,6 +126,7 @@ class About extends Me {
 <!--<a href="https://stackoverflow.com/users/18620665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18620665" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/allebedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="allebedev" height="30" width="40" /></a>-->
 </p>
+
 
 
 
