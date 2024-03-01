@@ -92,28 +92,6 @@ class About extends Me {
 </table> -->
 
   
-## Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/SanyaKor/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/SanyaKor/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-
-
-
----
-
-## Recent GitHub Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 1st, 2024, 2:31:38 AM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 
 ---
