@@ -109,15 +109,11 @@ class About extends Me {
 
 <!--RECENT_ACTIVITY:start-->
 1. ![star] Starred [savthe/discrete_math](https://github.com/savthe/discrete_math)
-2. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-3. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-4. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
-5. ![push] Pushed 1 commit(s) to [SanyaKor/SanyaKor](https://github.com/SanyaKor/SanyaKor)
 <!--RECENT_ACTIVITY:end-->
 
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 30th, 2024, 8:31:46 AM
+Last Updated: Thursday, May 30th, 2024, 9:10:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
