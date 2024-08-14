@@ -1,7 +1,3 @@
-<h1 align="left">Hi 👋, I'm Alex</h1>
-<h3 align="left">I'm a BackEnd Developer</h3>
-
----
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=623ce4)
@@ -22,36 +18,12 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=623ce4)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MYSQL&logoColor=white&color=623ce4)
 
-## About Me:
-
-- 🌱 I’m currently learning C++, SQL, unit-testing
-- 💬 Ask me about anything, I am happy to help 
-- :rocket: Always ready to collaborate for Dev Experiments
-- 📫 How to reach me alexandr.2nd@gmail.com
-- ⚡ Fun fact I can solve Rubik's cube in under a minute
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p> -->
 
 
-```dart 
-// tools I use organized 
-class About extends Me { 
-    const myTools = { 
-        "ProgramingLanguages" : { "C++", "C", "CSharp", "Python" }, 
-        "OtherLanguages" : { "Bash", "Json", "Markdown" }, 
-        "Database" : { "MySQL", "PostgreSQL" }, 
-        "Editors" : {
-                        "Vscode", "Clion", "Visual Studio",
-                        "PyCharm", "Unity Engine", "Xcode",
-                        "Jupyter Notebook", "Rider" 
-                    }, 
-        "Platforms" : { "GNU/Linux", "Windows" }, 
-        "OtherTools" : { "Git", "Jira", "Miro", "Trello", "Latex" } 
-    }; 
-} 
-```
 
 
 <!-- TESTS -->
